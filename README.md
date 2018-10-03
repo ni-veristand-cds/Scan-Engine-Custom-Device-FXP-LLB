@@ -1,16 +1,3 @@
-## Scan Engine Custom FXP LLB ##
+# Scan Engine Custom Device FXP LLB
 
-These are the source VIs used to script and build (into an LLB) the FXP UDV read and write cases used inside the Scan Engine Custom Device.
-
-### LabVIEW Version ###
-
-LabVIEW 2015
-
-### Dependencies ###
-
-NI Industrial Communications for EtherCAT
-NI RIO
-
-### License ###
-
-*This repository and any materials provided by NI therein are provided AS IS. NI DISCLAIMS ANY AND ALL LIABILITIES FOR AND MAKES NO WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR  PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY. NI shall have no liability for any direct, indirect, incidental, punitive, special, or consequential damages for your use of the repository or any materials contained therein.*
+This repository has moved to [ni/niveristand-scan-engine-fxp-libraries](https://github.com/ni/niveristand-scan-engine-fxp-libraries). Please update your bookmarks/links to point to the new location.
